@@ -6,7 +6,7 @@ A comprehensive web application that combines cryptography and data science tech
 ### Cryptography Tools
 - **Classical Ciphers**: Caesar and Vigenère cipher encryption/decryption
 - **Modern Encryption**: Base64 encoding/decoding, RSA, AES encryption
-- **Hash Functions**: SHA-256, SHA3-256, BLAKE2b with HMAC support
+- **Hash Functions**: SHA-256, BLAKE2b with HMAC support
 - **Secure Random Generation**: Cryptographically secure tokens and passwords
 
 ### Data Science Analysis
